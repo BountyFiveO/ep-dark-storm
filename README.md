@@ -64,11 +64,7 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
  
 
 
-## License
------------------------
-</br>
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 </br>
 

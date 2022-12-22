@@ -1,21 +1,26 @@
 {
-  "name": "ep-dark-storm",
-  "displayName": "EP Dark Storm",
-  "description": "Dark Blue Theme  with colorful syntax colors for those late nights. ",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "EP Dark Storm",
-        "uiTheme": "vs-dark",
-        "path": "./themes/EP Dark Storm-color-theme.json"
-      }
-    ]
-  }
+	"name": "ep-dark-storm",
+	"displayName": "EP Dark Storm",
+	"version": "1.0.0",
+	"publisher": "EngineerPatterson",
+	"description": "Dark Styled Theme with colorful syntax colors for those late nights coding sessions. ",
+	"author": {
+		"name": "Shawn Patterson",
+		"email": "shawn@engineerpatterson.com"
+	},
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "EP Dark Storm",
+				"uiTheme": "vs-dark",
+				"path": "./themes/EP Dark Storm-color-theme.json"
+			}
+		]
+	}
 }

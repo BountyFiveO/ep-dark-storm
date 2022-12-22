@@ -7,14 +7,16 @@
 
 <div id="header" align="center">
 <img src="https://engineerpatterson.com/images/ep-logo.png" width="450px"/></br>
+
   </br>
   </div>
 
-## EP Dark Storm README
+# EP Dark Storm README
 
+----------------------- 
 This is a dark theme for VS Code. It is based on the EP Dark theme, but with a few changes to make it more readable. It is still a work in progress, so if you have any suggestions, please let me know!
 
-## Features
+## About Theme
 
 * Dark theme
 * Based on EP Dark theme
@@ -26,26 +28,27 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 </br>
 
 -----------------------
-
 ## Screenshots
+</br>
+</br>
 
 <div id ="screenshots" align="center">
-<img src="https://i.imgur.com/ly57Qkx.png" width="100% />
+<img src="https://i.imgur.com/ly57Qkx.png" width="100%" />
 
 </div>
 
 </br>
 </br>
 
-<div>
-<img src="https://i.imgur.com/jvvRvL6.png" width="100% />
+<div id ="screenshots" align="center">
+<img src="https://i.imgur.com/jvvRvL6.png" width="100%" />
 </div>
 
 </br>
 </br>
 
-<div>
-<img src="https://i.imgur.com/MwWGnLg.png" width="100% />
+<div id ="screenshots" align="center">
+<img src="https://i.imgur.com/MwWGnLg.png" width="100%" />
 </div>
 
 </br>

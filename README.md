@@ -1,21 +1,16 @@
-</br>
+#
 
-[![Stargazers][stars-shield]][stars-url] 
+[![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
- 
- 
- <div id="header" align="center"></br>
-
-  <img src="https://engineerpatterson.com/images/ep-logo.png" width="450px"/></br>
+<div id="header" align="center">
+<img src="https://engineerpatterson.com/images/ep-logo.png" width="450px"/></br>
   </br>
   </div>
 
-
-# EP Dark Storm README
+## EP Dark Storm README
 
 This is a dark theme for VS Code. It is based on the EP Dark theme, but with a few changes to make it more readable. It is still a work in progress, so if you have any suggestions, please let me know!
 
@@ -30,22 +25,17 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 
 </br>
 
-
 -----------------------
- 
- 
+
 ## Screenshots
 
+<div id ="screenshots" align="center">
+<img src="https://i.imgur.com/ly57Qkx.png" width="100% />
 
-<div id ="screenshots" align="center"></br>
-<img src="https://i.imgur.com/ly57Qkx.png" width="100% /></br>
 </div>
 
 </br>
 </br>
-
- 
-   
 
 <div>
 <img src="https://i.imgur.com/jvvRvL6.png" width="100% />
@@ -58,13 +48,8 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 <img src="https://i.imgur.com/MwWGnLg.png" width="100% />
 </div>
 
-
 </br>
 </br>
- 
-
-
-
 
 </br>
 

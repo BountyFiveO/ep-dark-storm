@@ -13,7 +13,7 @@
 
 # EP Dark Storm README
 
------------------------ 
+-----------------------
 This is a dark theme for VS Code. It is based on the EP Dark theme, but with a few changes to make it more readable. It is still a work in progress, so if you have any suggestions, please let me know!
 
 ## About Theme
@@ -28,7 +28,9 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 </br>
 
 -----------------------
+
 ## Screenshots
+
 </br>
 </br>
 
@@ -68,5 +70,3 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook&colorB=555
 [facebook-url]: https://facebook.com/engineerpatterson
 [license-url]: https://github.com/BountyFiveO/Thinkful-Flashcard-App/blob/master/LICENSE.txt
-[engineerpatterson.com]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge
-[engineerpatterson-url]: https://engineerpatterson.com

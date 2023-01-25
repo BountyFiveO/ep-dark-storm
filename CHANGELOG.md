@@ -6,8 +6,20 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
 
-## [1.0.1] - 12-21-2022
+## [1.0.0] - 12/21/2022
+
+### Initial Release
+
+- Theme published to store
+
+## [1.0.1] - 12-22-2022
 
 - Updated color-theme.json
+
+## [1.1]
+
+### Changed
+
+- changed the syntax highlight color
+- made some minor color fixes

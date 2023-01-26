@@ -13,9 +13,60 @@
 
 ## EP Dark Storm README
 
-
 -----------------------
 This is a dark theme for VS Code. It is based on the EP Dark theme, but with a few changes to make it more readable. It is still a work in progress, so if you have any suggestions, please let me know!
+
+## Table of Contents
+
+* [Installation](#installation)
+* [About Theme](#about-theme)
+* [Extensions that work well with this theme](#extensions-that-work-well-with-this-theme)
+* [Screenshots](#screenshots)
+* [Contact Me](#contact-me)
+
+</br>
+
+-----------------------
+
+## Installation
+
+### There are multiple ways to install this theme
+
+[Option 1] - Install from VS Code Marketplace
+
+* Launch VS Code Quick Open (Ctrl+P)
+* Paste the following command and press enter. `ext install ep-dark-storm`
+* Alternatively, install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=engineerpatterson.ep-dark-storm)
+
+[Option 2] - Install from VS Code Extensions
+* Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+* Search for `EP Dark Storm`
+* Click **Install** to install it.
+* Click **Reload** to reload the your editor
+* Code > Preferences > Color Theme > **EP Dark Storm**
+
+[Option 3] - Install from VS Code CLI
+
+```bash
+code --install-extension ep-dark-storm
+```
+
+or
+
+```bash
+code --install-extension engineerpatterson.ep-dark-storm
+```
+
+[Option 4] - Install from GitHub
+
+* Download the latest release from [GitHub](https://github.com/bountyfiveo/ep-dark-storm/releases)
+
+* Unzip the file and copy the `ep-dark-storm` folder into the `~/.vscode/extensions` directory
+* Reload VS Code
+
+</br>
+
+-----------------------
 
 ## About Theme
 
@@ -69,7 +120,15 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 
 </br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+-----------------------
+
+## Contact Me
+
+* [Facebook](https://facebook.com/engineerpatterson)
+* [LinkedIn](https://linkedin.com/in/engineerpatterson)
+* [GitHub](https://github.com/bountyfiveo)
+
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

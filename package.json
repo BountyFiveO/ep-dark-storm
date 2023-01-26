@@ -2,6 +2,7 @@
 	"name": "ep-dark-storm",
 	"displayName": "EP Dark Storm",
 	"version": "1.2.0",
+	"icon": "themes/EP Dark Storm-icon.png",
 	"publisher": "EngineerPatterson",
 	"description": "Dark Styled Theme with colorful syntax colors for those late nights coding sessions. ",
 	"author": {
@@ -23,7 +24,6 @@
 			{
 				"label": "EP Dark Storm",
 				"uiTheme": "vs-dark",
-				"icon": "./themes/EP Dark Storm-icon.png",
 				"path": "./themes/EP Dark Storm-color-theme.json"
 			}
 		]

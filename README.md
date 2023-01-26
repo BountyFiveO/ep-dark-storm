@@ -11,7 +11,8 @@
   </br>
   </div>
 
-# EP Dark Storm README
+## EP Dark Storm README
+
 
 -----------------------
 This is a dark theme for VS Code. It is based on the EP Dark theme, but with a few changes to make it more readable. It is still a work in progress, so if you have any suggestions, please let me know!
@@ -24,6 +25,16 @@ This is a dark theme for VS Code. It is based on the EP Dark theme, but with a f
 * Syntax colors are more colorful
 * More readable
 * Easy on the eyes for those late night coding sessions
+
+## Extensions that work well with this theme
+
+* [GitHub Copilot](vscode:extension/GitHub.copilot) - AI-powered code completion ( *requires GitHub account and Subscription* )
+* [GitLens](vscode:extension/eamodio.gitlens) - Git supercharged ( *requires Subscription but has a free trial* )
+* [Live Server](vscode:extension/ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
+* [VSCode Icons](vscode:extension/vscode-icons-team.vscode-icons) - Icons for Visual Studio Code
+* [GitHub Pull Requests and Issues](vscode:extension/github.vscode-pull-request-github) - View and manage your GitHub pull requests and issues within Visual Studio Code.
+* [Docker](vscode:extension/ms-azuretools.vscode-docker) - Docker extension for Visual Studio Code
+* [Prettier](vscode:extension/esbenp.prettier-vscode) - Code formatter using prettier
 
 </br>
 

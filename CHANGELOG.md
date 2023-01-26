@@ -6,7 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-
 ## [1.0.0] - 12/21/2022
 
 ### Initial Release
@@ -23,3 +22,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - changed the syntax highlight color
 - made some minor color fixes
+- added icon
